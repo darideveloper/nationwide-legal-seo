@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Natalie Gonzalez
+N;CHARSET=UTF-8:Gonzalez;Natalie;;;
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:ngonzalez@nationwidelegal.com
+TEL;TYPE=CELL:+12136913746
+TEL;TYPE=WORK,VOICE:+12132499999
+TITLE;CHARSET=UTF-8:Client Services Support
+ORG;CHARSET=UTF-8:Nationwide Legal
+URL;type=WORK;CHARSET=UTF-8:https://nationwidelegal.com/
+REV:2025-03-25T16:48:27.064Z
+END:VCARD

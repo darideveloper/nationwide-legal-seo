@@ -1,0 +1,77 @@
+AddDefaultCharset UTF-8
+#Force non-www:
+RewriteEngine on
+RewriteCond %{HTTP_HOST} !^nationwidelegal.com$
+RewriteRule ^(.*)$ https://nationwidelegal.com/$1 [R=301,L]
+
+RewriteOptions inherit
+
+
+RewriteCond %{HTTP_HOST} ^nationwidelegal\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.nationwidelegal\.com$
+RewriteRule ^login\/subpoenaservices\/no\/request$ "https\:\/\/nationwidelegal\.com\/request" [R=301,L]
+RewriteCond %{HTTP_HOST} ^nationwidelegal\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.nationwidelegal\.com$
+RewriteRule ^debtcollectionsupport\/no\/request$ "https\:\/\/nationwidelegal\.com\/request" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^login\/investigations\/no\/request$ "https\:\/\/nationwidelegal\.com\/request" [R=301,L]
+RewriteCond %{HTTP_HOST} ^nationwidelegal\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.nationwidelegal\.com$
+RewriteRule ^login\/messenger\/no\/request$ "https\:\/\/nationwidelegal\.com\/request" [R=301,L]
+RewriteCond %{HTTP_HOST} ^nationwidelegal\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.nationwidelegal\.com$
+RewriteRule ^login\/efiling\/no\/request$ "https\:\/\/nationwidelegal\.com\/request" [R=301,L]
+RewriteCond %{HTTP_HOST} ^nationwidelegal\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.nationwidelegal\.com$
+RewriteRule ^login\/documentduplication\/no\/request$ "https\:\/\/nationwidelegal\.com\/request" [R=301,L]
+RewriteCond %{HTTP_HOST} ^nationwidelegal\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.nationwidelegal\.com$
+RewriteRule ^login\/serviceofprocess\/no\/request$ "https\:\/\/nationwidelegal\.com\/request" [R=301,L]
+RewriteCond %{HTTP_HOST} ^nationwidelegal\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.nationwidelegal\.com$
+RewriteRule ^login\/serviceofprocess\/yes\/request$ "https\:\/\/nationwidelegal\.com\/request" [R=301,L]
+RewriteCond %{HTTP_HOST} ^nationwidelegal\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.nationwidelegal\.com$
+RewriteRule ^login\/investigations\/yes\/request$ "https\:\/\/nationwidelegal\.com\/request" [R=301,L]
+RewriteCond %{HTTP_HOST} ^nationwidelegal\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.nationwidelegal\.com$
+RewriteRule ^login\/subpoenaservices\/yes\/request$ "https\:\/\/nationwidelegal\.com\/request" [R=301,L]
+RewriteCond %{HTTP_HOST} ^nationwidelegal\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.nationwidelegal\.com$
+RewriteRule ^debtcollectionsupport\/yes\/request$ "https\:\/\/nationwidelegal\.com\/request" [R=301,L]
+RewriteCond %{HTTP_HOST} ^nationwidelegal\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.nationwidelegal\.com$
+RewriteRule ^login\/documentduplication\/yes\/request$ "https\:\/\/nationwidelegal\.com\/request" [R=301,L]
+RewriteCond %{HTTP_HOST} ^nationwidelegal\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.nationwidelegal\.com$
+RewriteRule ^login\/messenger\/yes\/request$ "https\:\/\/nationwidelegal\.com\/request" [R=301,L]
+RewriteCond %{HTTP_HOST} ^nationwidelegal\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.nationwidelegal\.com$
+RewriteRule ^login\/courtservices\/yes\/request$ "https\:\/\/nationwidelegal\.com\/request" [R=301,L]
+RewriteCond %{HTTP_HOST} ^nationwidelegal\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.nationwidelegal\.com$
+RewriteRule ^login\/efiling\/yes\/request$ "https\:\/\/nationwidelegal\.com\/request" [R=301,L]
+RewriteCond %{HTTP_HOST} ^nationwidelegal\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.nationwidelegal\.com$
+RewriteRule ^documentduplication$ "https\:\/\/nationwidelegal\.com\/concierge\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^nationwidelegal\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.nationwidelegal\.com$
+RewriteRule ^login\/courtservices\/no\/request$ "https\:\/\/nationwidelegal\.com\/request\/" [R=301,L]
+
+RewriteCond %{HTTP_REFERER} !^http://nationwidelegal.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://nationwidelegal.com$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.nationwidelegal.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.nationwidelegal.com$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://nationwidelegal.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://nationwidelegal.com$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://www.nationwidelegal.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://www.nationwidelegal.com$      [NC]
+RewriteRule .*\.(jpg|jpeg|gif|png|bmp)$ - [F,NC]
+Options -Indexes
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “ea-php82” package as the default “PHP” programming language.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php82 .php .php8 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit

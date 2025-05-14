@@ -1,0 +1,532 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--  generator="Inspyder Sitemap Creator 5.1.4"  -->
+<!-- Last Updated 15/08/2023 23:04:40 -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd http://www.google.com/schemas/sitemap-mobile/1.0/sitemap-mobile.xsd http://www.google.com/schemas/sitemap-video/1.1/sitemap-video.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url>
+	<loc>https://nationwidelegal.com/</loc>
+	<lastmod>2023-08-15</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/assets/img/logo_original.png</image:loc>
+		<image:caption>Nationwide Legal LLC</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/assets/img/icons/legal_iconserviceofprocess.png</image:loc>
+		<image:caption>Legal Services | Service of Process</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/assets/img/icons/legal_iconefiling.png</image:loc>
+		<image:caption>Legal Services | EFiling</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/assets/img/icons/legal_iconcourt.png</image:loc>
+		<image:caption>Legal Services | Court Services</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/assets/img/icons/legal_iconmessenger.png</image:loc>
+		<image:caption>Legal Services | Messenger Service</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/assets/img/icons/legal_iconinvestigations.png</image:loc>
+		<image:caption>Legal Services | Investigations</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/assets/img/icons/legal_icondebt.png</image:loc>
+		<image:caption>Legal Services | Collections</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/assets/img/icons/legal_iconconcierge.png</image:loc>
+		<image:caption>Legal Services | Concierge</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/assets/img/icons/legal_iconsubpoena.png</image:loc>
+		<image:caption>Legal Services | Subpoena Solutions</image:caption>
+	</image:image>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://nationwidelegal.com/efiling/</loc>
+	<lastmod>2023-08-15</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/assets/img/icons/efiling.png</image:loc>
+		<image:caption>NationwideLegal | E-Filing |</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/assets/img/ordernow.png</image:loc>
+		<image:caption>Order Now</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/assets/img/portfolio/efiling.png</image:loc>
+		<image:caption>E-Filing</image:caption>
+	</image:image>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://nationwidelegal.com/process-service/</loc>
+	<lastmod>2023-08-15</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/assets/img/icons/serviceofprocess.png</image:loc>
+		<image:caption>NationwideLegal | Service of Process |</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/assets/img/portfolio/serviceofprocess.png</image:loc>
+		<image:caption>Service of Process</image:caption>
+	</image:image>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://nationwidelegal.com/messengerservice/</loc>
+	<lastmod>2023-08-15</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/assets/img/icons/messenger-02.png</image:loc>
+		<image:caption>NationwideLegal | Messenger Services |</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/assets/img/portfolio/messenger.png</image:loc>
+		<image:caption>Messenger Services</image:caption>
+	</image:image>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://nationwidelegal.com/concierge/</loc>
+	<lastmod>2023-08-15</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/assets/img/icons/concierge-icon.png</image:loc>
+		<image:caption>NationwideLegal | Document Duplication |</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/assets/img/portfolio/documentduplication.png</image:loc>
+		<image:caption>Document Duplication</image:caption>
+	</image:image>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://nationwidelegal.com/courtservice/</loc>
+	<lastmod>2023-08-15</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/assets/img/icons/court-02.png</image:loc>
+		<image:caption>NationwideLegal | Court Services |</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/assets/img/portfolio/courtservices.png</image:loc>
+		<image:caption>Court Services</image:caption>
+	</image:image>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://nationwidelegal.com/investigations/</loc>
+	<lastmod>2023-08-15</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/assets/img/icons/investigations.png</image:loc>
+		<image:caption>NationwideLegal | Investigations |</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/assets/img/portfolio/investigations.png</image:loc>
+		<image:caption>Investigations</image:caption>
+	</image:image>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://nationwidelegal.com/resources/</loc>
+	<lastmod>2023-08-15</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/assets/img/icons/resources.png</image:loc>
+		<image:caption>NationwideLegal | Resources |</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/assets/img/icons/pdf-icon.png</image:loc>
+		<image:caption>Courier Filing Cut Off Times</image:caption>
+	</image:image>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://nationwidelegal.com/collections/</loc>
+	<lastmod>2023-08-15</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/assets/img/icons/debt-02.png</image:loc>
+		<image:caption>NationwideLegal | Debt Collection Support |</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/assets/img/portfolio/collection.png</image:loc>
+		<image:caption>Legal Services</image:caption>
+	</image:image>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://nationwidelegal.com/offices/</loc>
+	<lastmod>2023-08-15</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/assets/img/icons/locations.png</image:loc>
+		<image:caption>NationwideLegal | Locations |</image:caption>
+	</image:image>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://nationwidelegal.com/about/</loc>
+	<lastmod>2023-08-15</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/assets/img/icons/about.png</image:loc>
+		<image:caption>NationwideLegal | About |</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/assets/img/portfolio/about04.png</image:loc>
+		<image:caption>Innovation &amp; Technology</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/assets/img/portfolio/about03.png</image:loc>
+		<image:caption>Industry Leading Experts</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/assets/img/portfolio/about01.png</image:loc>
+		<image:caption>System Reliability</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/assets/img/portfolio/about02.png</image:loc>
+		<image:caption>Data Security &amp; Confidentiality</image:caption>
+	</image:image>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://nationwidelegal.com/contact/</loc>
+	<lastmod>2023-08-15</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/assets/img/icons/contact.png</image:loc>
+		<image:caption>NationwideLegal | Contact Us |</image:caption>
+	</image:image>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://nationwidelegal.com/login/</loc>
+	<lastmod>2023-08-15</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/assets/img/login/serviceofprocess.png</image:loc>
+		<image:caption>Service of Process</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/assets/img/login/selfserviceefiling.png</image:loc>
+		<image:caption>E-Filing</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/assets/img/login/courtservices.png</image:loc>
+		<image:caption>Court Services</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/assets/img/login/messenger.png</image:loc>
+		<image:caption>Messenger Services</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/assets/img/login/investigations.png</image:loc>
+		<image:caption>Investigations</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/assets/img/login/debtcollection.png</image:loc>
+		<image:caption>Debt Collection Support</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/assets/img/login/conciergeefiling.png</image:loc>
+		<image:caption>Document Duplication</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/assets/img/login/subpoenasolutions.png</image:loc>
+		<image:caption>Subpoena Services</image:caption>
+	</image:image>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://nationwidelegal.com/subpoenasolutions/</loc>
+	<lastmod>2023-08-15</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/assets/img/icons/subpoena.png</image:loc>
+		<image:caption>NationwideLegal | Subpoena Services |</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/assets/img/portfolio/subpoenaservices.png</image:loc>
+		<image:caption>Subpoena Services</image:caption>
+	</image:image>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://nationwidelegal.com/request/</loc>
+	<lastmod>2023-08-15</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/assets/img/icons/request.png</image:loc>
+		<image:caption>NationwideLegal | Request Account |</image:caption>
+	</image:image>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://nationwidelegal.com/login/efiling/</loc>
+	<lastmod>2023-08-15</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/assets/img/login/selfserviceefiling_selected.png</image:loc>
+		<image:caption>E-Filing</image:caption>
+	</image:image>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://nationwidelegal.com/login/serviceofprocess/</loc>
+	<lastmod>2023-08-15</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/assets/img/login/serviceofprocess_selected.png</image:loc>
+		<image:caption>Service of Process</image:caption>
+	</image:image>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://nationwidelegal.com/login/courtservices/</loc>
+	<lastmod>2023-08-15</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/assets/img/login/courtservices_selected.png</image:loc>
+		<image:caption>Court Services</image:caption>
+	</image:image>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://nationwidelegal.com/login/messenger/</loc>
+	<lastmod>2023-08-15</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/assets/img/login/messenger_selected.png</image:loc>
+		<image:caption>Messenger Services</image:caption>
+	</image:image>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://nationwidelegal.com/login/documentduplication/</loc>
+	<lastmod>2023-08-15</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/assets/img/login/conciergeefiling_selected.png</image:loc>
+		<image:caption>Document Duplication</image:caption>
+	</image:image>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://nationwidelegal.com/resources/CACalendar/</loc>
+	<lastmod>2023-08-15</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/resources/assets/img/logo_original.png</image:loc>
+		<image:caption>Nationwide Legal LLC</image:caption>
+	</image:image>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://nationwidelegal.com/resources/EFilingCutOffTimes/</loc>
+	<lastmod>2023-08-15</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://nationwidelegal.com/investigations/web/</loc>
+	<lastmod>2023-08-15</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://nationwidelegal.com/resources/CourierFilingCutOffTimes/</loc>
+	<lastmod>2023-08-15</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://nationwidelegal.com/login/investigations/</loc>
+	<lastmod>2023-08-15</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/assets/img/login/investigations_selected.png</image:loc>
+		<image:caption>Investigations</image:caption>
+	</image:image>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://nationwidelegal.com/resources/CAPrimary/</loc>
+	<lastmod>2023-08-15</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://nationwidelegal.com/login/debtcollectionsupport/</loc>
+	<lastmod>2023-08-15</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/assets/img/login/debtcollection_selected.png</image:loc>
+		<image:caption>Debt Collection Support</image:caption>
+	</image:image>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://nationwidelegal.com/login/subpoenaservices/</loc>
+	<lastmod>2023-08-15</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+		<image:loc>https://nationwidelegal.com/assets/img/login/subpoenasolutions_selected.png</image:loc>
+		<image:caption>Subpoena Services</image:caption>
+	</image:image>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://nationwidelegal.com/resources/files/2023%20CA%20Calendar%20of%20Court%20Hoildays.pdf</loc>
+	<lastmod>2023-01-16</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://nationwidelegal.com/resources/files/E-Filing%20Cut%20Off%20Times.pdf</loc>
+	<lastmod>2023-01-16</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://nationwidelegal.com/login/efiling/yes/</loc>
+	<lastmod>2023-08-15</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://nationwidelegal.com/resources/files/2023%20CA%20Primary%20Fee%20Schedule.pdf</loc>
+	<lastmod>2023-01-16</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://nationwidelegal.com/resources/files/Courier%20Filing%20Cut%20Off%20Times.pdf</loc>
+	<lastmod>2023-01-16</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://nationwidelegal.com/login/documentduplication/yes/login/</loc>
+	<lastmod>2023-08-15</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://nationwidelegal.com/login/messenger/yes/login/</loc>
+	<lastmod>2023-08-15</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://nationwidelegal.com/login/courtservices/yes/login/</loc>
+	<lastmod>2023-08-15</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://nationwidelegal.com/login/debtcollectionsupport/no/request/</loc>
+	<lastmod>2023-08-15</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://nationwidelegal.com/login/debtcollectionsupport/yes/login/</loc>
+	<lastmod>2023-08-15</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://nationwidelegal.com/login/serviceofprocess/yes/login/</loc>
+	<lastmod>2023-08-15</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://nationwidelegal.com/login/investigations/yes/login/</loc>
+	<lastmod>2023-08-15</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://nationwidelegal.com/login/efiling/yes/concierge/</loc>
+	<lastmod>2023-08-15</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://nationwidelegal.com/login/subpoenaservices/yes/login/</loc>
+	<lastmod>2023-08-15</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://nationwidelegal.com/login/yes/subpoenaservices/</loc>
+	<lastmod>2023-08-15</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://nationwidelegal.com/rc/</loc>
+	<lastmod>2023-08-15</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://nationwidelegal.com/login/subpoenaservices/no/request/</loc>
+	<lastmod>2023-08-15</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+</urlset>

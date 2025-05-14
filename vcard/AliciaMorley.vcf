@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Alicia Morley
+N;CHARSET=UTF-8:Morley;Alicia;;;
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:amorley@nationwidelegal.com
+TEL;TYPE=CELL:+17602162845
+TEL;TYPE=WORK,VOICE:+18447783555
+TITLE;CHARSET=UTF-8:Director of Operations - Court Reporting Division
+ORG;CHARSET=UTF-8:Nationwide Legal
+URL;type=WORK;CHARSET=UTF-8:https://www.nationwidelegal.com/
+REV:2025-03-27T23:01:01.608Z
+END:VCARD
